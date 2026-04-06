@@ -1,0 +1,3 @@
+Fecha (formato correcto), Distancia (positiva), Costo (decimal).
+2024-03-15;120.5;350.75
+2025-03-14;122.90;340.50
